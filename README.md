@@ -32,4 +32,4 @@ The project also integrates **Cloudifya** for database management and **Firebase
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/google-drive-clone.git
+git clone [https://github.com/your-username/google-drive-clone.git](https://github.com/Vyas106/Cloudy)
